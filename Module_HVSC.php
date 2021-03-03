@@ -5,6 +5,7 @@ use GDO\Core\GDO_Module;
 
 /**
  * HVSC Website.
+ * Project cancelled due to a better site already available.
  * @author gizmore
  * @version 6.10
  * @since 6.10
